@@ -7,11 +7,12 @@ font-family: Arial, sans-serif;
 }
 
 nav{
-    margin: auto;
+    margin-bottom: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     text-align: left;
+    background-color: silver;
 
 }
 
